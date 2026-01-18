@@ -17,4 +17,5 @@ TOML files are runtime-editable and can be used to configure existing executable
 **What to read next:** For more information, see the [full guide](https://github.com/aldatubio/automated-qpcr-results/blob/main/docs/Software_User_Guide.pdf).
 
 ## Contributions
-**Note:** All contributions prior to July 2025 were authored by Lucy Langenberg during her employment at Aldatu Biosciences (2022 - 2025).
+**Note:** All contributions prior to July 2025 were authored by Lucy Langenberg.
+
